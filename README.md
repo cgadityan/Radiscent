@@ -13,3 +13,6 @@
       * Rotating Disk and Motor
       * Solenoid switching
 8. Analyzing design advantages and disadvantages to finalize the design and proceed with the schematics design and source code.
+
+
+****  Source code and Schematics design present in the Documentation ****
